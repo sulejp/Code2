@@ -1,8 +1,3 @@
-make -f Makefile Code2
-
-./Code2
-
-
 To use makefile type:
 
 make -f Makefile Code2
