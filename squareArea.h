@@ -1,0 +1,3 @@
+double squareArea(double a);
+
+
